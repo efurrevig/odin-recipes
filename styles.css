@@ -1,0 +1,16 @@
+body {
+    background-color: #f3fef3;
+}
+
+h1 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif
+}
+
+.foodimg {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
